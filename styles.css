@@ -8,6 +8,10 @@
   margin-top: 35px;
 }
 
+.no-bold {
+  font-weight: normal;
+}
+
 .box {
     padding-left: 15px;
     padding-right: 15px;
@@ -21,6 +25,11 @@ ol {
     padding-left: 30%;
     padding-right: 30%;
 }
+
+a {
+  font-size: 1.17em;
+}
+
 .small-margin {
     padding-top: 10px;
     padding-left: 15%;
